@@ -8,9 +8,9 @@ This project is to analyze the relationship between each feature and risk flag. 
 
 ## Features
 The data analysis will provide:
--Logistic Regression
--Correlation Matrix
--ANOVA Table
+- Logistic Regression
+- Correlation Matrix
+- ANOVA Table
 
 
 ## Get Started
